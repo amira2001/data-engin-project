@@ -1,0 +1,8 @@
+city,latitude,longitude,temperature,time
+Algiers,36.6875,3.125,25.2,iso8601
+Annaba,36.875,7.75,24.0,iso8601
+Batna,35.5625,6.25,21.6,iso8601
+Tamanrasset,22.8,5.5,35.1,iso8601
+Tlemcen,34.875,-1.3125,27.6,iso8601
+Djelfa,34.6875,3.25,24.6,iso8601
+Bejaia,36.75,5.0625,22.9,iso8601
